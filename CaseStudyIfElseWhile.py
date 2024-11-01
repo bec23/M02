@@ -1,4 +1,4 @@
-#Beck Rieger
+#Becky Rieger
 #CaseStudyIfElseWhile
 # enter student's name and gpa display if made dean's list or honor roll
 
